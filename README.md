@@ -1,6 +1,6 @@
-# LangChain Agent Demo
+# LangChain AI Agent
 
-This folder contains a small LangChain agent project with two entry points:
+This folder contains a LangChain agent project with two entry points:
 
 - [app.py](app.py) runs a Streamlit UI for chatting with the agent.
 - [main.py](main.py) runs a simple command-line demo.
